@@ -22,3 +22,6 @@ To implement some important methods in classes and variables, UVM provides the U
 
 Virtual method
 - Use virtual method whenever you can
+
+DPI vs VPI
+- I think both can do similar thing.
