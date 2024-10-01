@@ -18,3 +18,7 @@ To implement some important methods in classes and variables, UVM provides the U
     uvm_field_int: registers a variable in the UVM factory. This macro provides functions like copy(), compare() and print()
     uvm_info: prints messages during simulation time in the environment
     uvm_error: this macro sends messages with error logs 
+
+
+Virtual method
+- Use virtual method whenever you can
